@@ -1,0 +1,1 @@
+"./morse.obj" "./morse_codes.obj" "../lnk_msp430f2274.cmd" -llibc.a 
